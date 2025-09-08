@@ -25,6 +25,10 @@
   },
   "author": "Federico J. Leiva",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoLeiva12/flu.git"
+  },
   "keywords": [
     "ansi",
     "colors",
