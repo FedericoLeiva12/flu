@@ -10,7 +10,7 @@ Flu is a tiny, dependency‑free, chainable terminal styling library.
 ## Install
 
 ```bash
-npm install flu
+npm install @invboyz/flu
 ```
 
 ## Quick Start

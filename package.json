@@ -1,6 +1,6 @@
 {
   "name": "@invboyz/flu",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Flu: dependency-free, chainable terminal styling with plugins.",
   "type": "module",
   "main": "./dist/index.js",
